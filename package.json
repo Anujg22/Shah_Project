@@ -1,0 +1,25 @@
+{
+  "name": "shah-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anuj",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "express-promise-router": "^4.1.1",
+    "fast-redact": "^3.0.2",
+    "knex": "^0.95.15",
+    "moment": "^2.29.1",
+    "morgan": "^1.10.0",
+    "path": "^0.12.7",
+    "pg": "^8.7.1",
+    "winston": "^3.3.3"
+  }
+}
